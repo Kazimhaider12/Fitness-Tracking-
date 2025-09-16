@@ -1,5 +1,8 @@
 # Fitness-Tracking-
 
+<img width="563" height="325" alt="Screenshot 2025-09-16 162802" src="https://github.com/user-attachments/assets/6f4fa560-0e76-42ec-bd90-b4e7777fc130" />
+
+
 🏋️‍♂️ Overview of the Report:
 This dashboard appears to track 30 days of fitness activity, likely from wearable devices or fitness apps. 
 
